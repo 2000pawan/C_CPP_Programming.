@@ -8,8 +8,8 @@ int main(){
             arr[i]=100;
         }
     }
+    printf("Array values are:- \n");
     for (i=0;i<5;i++){
-        printf("Array values are:- \n");
         printf("arr[%d] = %d\n",i,arr[i]);
     }
     return 0;
