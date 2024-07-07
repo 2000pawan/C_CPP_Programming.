@@ -22,7 +22,7 @@ printf("|%s %3d %#x |" , "DEL" , char4 , char4  );
     } else {
 printf("|  %c %3d %#x |" , char4 , char4 , char4  );
     }
-printf("  %c %3d %#x |  %c %3d %#x |  %c %3d %#x |  %c %3d %#x |\n" ,
+printf("  %c %3d %#x |   %c %3d %#x |  %c %3d %#x |  %c %3d %#x |\n" ,
 char5 , char5 , char5 ,
 char6 , char6 , char6 ,
 char7 , char7 , char7 ,
