@@ -4,10 +4,10 @@ int main(){
     int n,a,bi_nom;
     printf("Mx   ");
     for (n=0;n<=10;++n){
-        printf("%d    ",n);
+        printf("%d   ",n);
     }
     printf("\n------------------------------------------------------------------\n");
-    n=0;
+    n=0;   
     do{
         a=0,bi_nom=1;
         printf("%2d",n);
